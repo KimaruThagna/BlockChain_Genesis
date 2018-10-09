@@ -71,3 +71,4 @@ while blockchain.head != None: # print the blocks
     #https://www.youtube.com/watch?v=gwitf7ABtK8
     #https://www.youtube.com/watch?v=X8SPO875mQY
     #https://www.youtube.com/watch?v=z2qOxVVAD-o
+    #https://www.youtube.com/watch?v=gSQXq2_j-mw
